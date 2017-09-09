@@ -1,2 +1,2 @@
 # Python-Snippets
-Random Python projects. &lt;i>No serious intentions here&lt;i>, just simple ideas
+Random Python projects. <i>No serious intentions here<i>, just simple ideas
